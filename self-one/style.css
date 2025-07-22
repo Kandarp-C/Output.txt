@@ -1,0 +1,11 @@
+ body {
+      background-color: #111;
+      font-family: 'Cascadia Mono', 'Consolas', monospace;
+      text-align: center;
+      padding: 40px;
+      color: #ccc;
+    }
+    canvas {
+      border: 1px solid #444;
+      margin-top: 20px;
+    }
